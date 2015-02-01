@@ -104,9 +104,9 @@ def parseScheme(colors):
               'hotspot': 0,
               'italic': 0,
 # #if PLATFORM == "darwin"
-              'size': 13,
+              'size': 12,
 # #else
-              'size': 11,
+              'size': 10,
 # #endif
 
               'useFixed': 1,
