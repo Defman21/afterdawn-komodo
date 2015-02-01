@@ -6,4 +6,4 @@ Afterdawn color scheme for Komodo 9.
 * Hard method: find your Komodo profile folder and drop `Afterdawn.ksf` into `schemes/` folder
 
 ##Screenshot
-[screenshot.png](Screenshot)
+[Screen](screenshot.png)
